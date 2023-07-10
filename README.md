@@ -7,7 +7,7 @@ The problem is to develop a model that can accurately detect fake news articles 
 There are different approaches one can take, such as supervised learning, unsupervised learning, or deep learning. For fake news detection, supervised learning is a common approach. In supervised learning, the model is trained on labeled data, where the true class of each article (real or fake) is known. The goal is to train a model that can accurately classify new, unseen articles as either real or fake.
 
 ## Data collection:
-The next step is to collect data that you can use to train and evaluate your model. There are several sources of data you can use, such as online news sources, social media platforms, and news archives. You can use web scraping techniques to collect data from these sources or else simply download the data from the [dataset](/dataset) folder of this repository
+The next step is to collect data that you can use to train and evaluate your model. There are several sources of data you can use, such as online news sources, social media platforms, and news archives. You can use web scraping techniques to collect data from these sources or else simply download the data from the [dataset](https://drive.google.com/drive/folders/1jz2qVPMOmiKH1gSu1DCuT3Je2xvZTkKo?usp=sharing) folder of this repository
 
 ## Data preparation:
 Once you have collected the data, the next step is to prepare it for analysis. This involves cleaning and preprocessing the data, which includes tasks such as removing duplicates, handling missing values, and converting the data into a format that can be used by the machine learning algorithms.
